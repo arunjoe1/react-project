@@ -1,2 +1,2 @@
 # react-project
-react project with GET and POST methos
+react project with GET and POST methods
